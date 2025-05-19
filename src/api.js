@@ -39,14 +39,6 @@ let receitas = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW6L1VBiOwWdfbccYR8NgxFsOWZuXoBiiSjA&s",
   },
-  {
-    id: 6,
-    nome: "Brownie de Chocolate Amargo",
-    descricao: "Sobremesa intensa e irresistível para os chocólatras",
-    ingredientes: ["Chocolate 70%", "Manteiga", "Ovos", "Açúcar", "Farinha"],
-    image:
-      "https://claudia.abril.com.br/wp-content/uploads/2020/02/brownie-de-chocolate-fit.png",
-  },
 ];
 
 module.exports = receitas;
